@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aryan Agarwal and I'm a computer science student.
-- 👀 I’m interested in coding, reading, gaming and I like to myself updated with the latest information on the technology trends. 🖥💻📱🎮
+- 👀 I’m interested in coding, reading, gaming and I like to keep myself updated with the latest information on the technology trends. 🖥💻📱🎮
 - 🌱 I’m currently learning JavaScript and trying to practice and improve my skills everyday.
 - 📫 How to reach me: Email
 
