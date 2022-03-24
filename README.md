@@ -1,7 +1,7 @@
 ### Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img src="https://emojis.slackmojis.com/emojis/images/1511368775/3217/bluelightsaber.png?1511368775" width="25px">
 I’m Aryan Agarwal and I'm a computer science student. </br>
 I’m interested in coding, reading, gaming and I like to keep myself updated with the latest information on the technology trends. 🖥💻</br>
-I’m currently learning JavaScript and trying to practice and improve my skills everyday.</br>
+
 
 </br>How to reach me:
 
